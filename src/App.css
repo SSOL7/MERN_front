@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: darkred;
+}
+
+button {
+  font-size: calc(10px + 2vmin);
+}
+
+.nav-wrapper {
+  display: flex;
+}
